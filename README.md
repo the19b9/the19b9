@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-https://the19b9.github.io/the19b9
-https://discord.com/channels/@the19b9
-https://mastodon.social/@the19b9
-https://www.pinterest.com/the19b9
+- https://the19b9.github.io/the19b9
+# https://discord.com/channels/@the19b9
+## https://mastodon.social/@the19b9
+### https://www.pinterest.com/the19b9
 https://www.tumblr.com/the19b9
 https://the19b9.tumblr.com
 https://medium.com/@the19b9
