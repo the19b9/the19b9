@@ -30,7 +30,7 @@
 ##### [Layers](https://layers.to/the19b9)
 ##### [Buymeacoffee](https://buymeacoffee.com/the19b9)
 ##### [Bento](https://bento.me/the19b9)
-
+  
 ### Raw
 https://the19b9.github.io/the19b9  
 https://discord.com/channels/@the19b9  
@@ -60,6 +60,7 @@ https://www.twitch.tv/the19b9
 https://layers.to/the19b9  
 https://buymeacoffee.com/the19b9  
 https://bento.me/the19b9  
+  
 <!--
 **the19b9/the19b9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
