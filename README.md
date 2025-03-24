@@ -30,7 +30,7 @@
 ##### [Layers](https://layers.to/the19b9)
 ##### [Buymeacoffee](https://buymeacoffee.com/the19b9)
 ##### [Bento](https://bento.me/the19b9)
-##### [NFT-opensea]()https://opensea.io/the19b9) | [NFT-opensea](https://opensea.io/0x4Abfa3856C490383FE916486664455eaeC046693)  
+##### [NFT-opensea](https://opensea.io/the19b9) | [NFT-opensea](https://opensea.io/0x4Abfa3856C490383FE916486664455eaeC046693)  
   
 ### Raw
 https://the19b9.github.io/the19b9  
