@@ -62,6 +62,12 @@ https://buymeacoffee.com/the19b9
 https://bento.me/the19b9  
   
 <!--
+mail.the19b9@gmail.com
+the19b9@outlook.com
+the19b9@proton.me
+-->
+
+<!--
 **the19b9/the19b9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
