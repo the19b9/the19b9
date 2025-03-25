@@ -45,7 +45,7 @@
   
   
  
-###### the19b9.io \| the19b9.ai \| the19b9.dev \| the19b9.app \| the19b9.tech \| the19b9.cloud \| the19b9.data \| the19b9.quantum \| the19b9.nft \| the19b9.crypto \| the19b9.space \| the19b9.world \| the19b9.abc \| the19b9.xyz \| the19b9.co \| the19b9.com \| the19b9.org
+###### the19b9.io &nbsp;\|&nbsp; the19b9.ai &nbsp;\|&nbsp; the19b9.dev &nbsp;\|&nbsp; the19b9.app &nbsp;\|&nbsp; the19b9.tech &nbsp;\|&nbsp; the19b9.cloud &nbsp;\|&nbsp; the19b9.data &nbsp;\|&nbsp; the19b9.quantum &nbsp;\|&nbsp; the19b9.nft &nbsp;\|&nbsp; the19b9.crypto &nbsp;\|&nbsp; the19b9.space &nbsp;\|&nbsp; the19b9.world &nbsp;\|&nbsp; the19b9.abc &nbsp;\|&nbsp; the19b9.xyz &nbsp;\|&nbsp; the19b9.co &nbsp;\|&nbsp; the19b9.com &nbsp;\|&nbsp; the19b9.org
     
 <!--
 ### raw  
