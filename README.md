@@ -4,7 +4,7 @@
 # **building "The 19B9"**  
 **(the one nine b nine)**  
  
-|  19B9  |  the 19B9  |  The 19B9  |  the_19B9  |  The_19B9  |  the-19B9  |  The-19B9  |  the19B9  |  The19B9  |  
+[  19B9  |  the 19B9  |  The 19B9  |  the_19B9  |  The_19B9  |  the-19B9  |  The-19B9  |  the19B9  |  The19B9  ]  
   
   
 ## soon  
@@ -12,6 +12,7 @@
   
 ## social  
 ##### [github](https://the19b9.github.io/the19b9)
+##### [bento](https://bento.me/the19b9)
 ##### [discord](https://discord.com/channels/@the19b9) | [discord](https://discord.com/channels/1353474811858522170)
 ##### [mastodon](https://mastodon.social/@the19b9)
 ##### [pinterest](https://www.pinterest.com/the19b9)
@@ -24,7 +25,7 @@
 ##### [x](https://x.com/the19b9)
 ##### [instagram](https://www.instagram.com/the19b9)
 ##### [threads](https://www.threads.net/@the19b9)
-##### [reddit](https://www.reddit.com/user/the19b9) | [reddit](https://www.reddit.com/r/the19b9/)
+##### [reddit](https://www.reddit.com/r/the19b9/) | [reddit](https://www.reddit.com/user/the19b9)  
 ##### [bluesky](https://bsky.app/profile/the19b9.bsky.social)
 ##### [linkedin](https://www.linkedin.com/company/the19b9) | [linkedin](https://www.linkedin.com/in/the19b9)
 ##### [youtube](https://www.youtube.com/@the19B9)
@@ -32,9 +33,9 @@
 ##### [producthunt](https://www.producthunt.com/@the19b9)
 ##### [twitch](https://www.twitch.tv/the19b9)
 ##### [layers](https://layers.to/the19b9)
+##### [nft-opensea](https://opensea.io/the19b9) | [nft-opensea](https://opensea.io/0x4Abfa3856C490383FE916486664455eaeC046693)
 ##### [buymeacoffee](https://buymeacoffee.com/the19b9)
-##### [bento](https://bento.me/the19b9)
-##### [nft-opensea](https://opensea.io/the19b9) | [nft-opensea](https://opensea.io/0x4Abfa3856C490383FE916486664455eaeC046693)  
+##### [session](https://session.foundation) | [session](https://getsession.org/) :: 057d9bd4ebe4e2dbd1b9dd94ebeb7b601102ca14092e24866feb629ff7ac57ef16
   
 ## products
 ##### [the19B9](https://the19b9.github.io/the19b9/#the19B9)   |   [the24](https://the19b9.github.io/the19b9/#the25)   |   [theMay](https://the19b9.github.io/the19b9/#theMay)  
@@ -45,39 +46,32 @@ mail.the19b9@gmail.com
 the19b9@outlook.com  
 the19b9@proton.me  
 metamsk : 0x5e4c9dd4e5b1b59f280fec147b8ffdf5e8b9374b  
-https://etherscan.io/address/0x5e4c9dd4e5b1b59f280fec147b8ffdf5e8b9374b 
+https://etherscan.io/address/0x5e4c9dd4e5b1b59f280fec147b8ffdf5e8b9374b  
 https://the19b9.github.io/the19b9  
-https://discord.com/channels/@the19b9  
-https://discord.com/channels/1353474811858522170  
+https://bento.me/the19b9  
+https://discord.com/channels/@the19b9  https://discord.com/channels/1353474811858522170  
 https://mastodon.social/@the19b9  
 https://www.pinterest.com/the19b9  
-https://www.tumblr.com/the19b9  
-https://the19b9.tumblr.com  
-https://medium.com/@the19b9  
-https://the19b9.medium.com  
-https://substack.com/@the19b9  
-https://the19b9.substack.com  
+https://www.tumblr.com/the19b9  https://the19b9.tumblr.com  
+https://medium.com/@the19b9  https://the19b9.medium.com  
+https://substack.com/@the19b9  https://the19b9.substack.com  
 https://www.figma.com/@the19b9  
 https://dribbble.com/the19B9  
 https://www.behance.net/the19b9  
 https://x.com/the19b9  
 https://www.instagram.com/the19b9  
 https://www.threads.net/@the19b9  
-https://www.reddit.com/user/the19b9  
-https://www.reddit.com/r/the19b9  
+https://www.reddit.com/user/the19b9  https://www.reddit.com/r/the19b9  
 https://bsky.app/profile/the19b9.bsky.social  
-https://www.linkedin.com/in/the19b9  
-https://www.linkedin.com/company/the19b9  
+https://www.linkedin.com/in/the19b9  https://www.linkedin.com/company/the19b9  
 https://www.youtube.com/@the19B9  
-https://the19b9.gumroad.com  
-https://www.gumroad.com/the19b9  
+https://www.gumroad.com/the19b9  https://the19b9.gumroad.com  
 https://www.producthunt.com/@the19b9  
 https://www.twitch.tv/the19b9  
 https://layers.to/the19b9  
+https://opensea.io/the19b9  https://opensea.io/0x4Abfa3856C490383FE916486664455eaeC046693  
 https://buymeacoffee.com/the19b9  
-https://bento.me/the19b9  
-https://opensea.io/the19b9  
-https://opensea.io/0x4Abfa3856C490383FE916486664455eaeC046693  
+https://session.foundation  https://getsession.org  057d9bd4ebe4e2dbd1b9dd94ebeb7b601102ca14092e24866feb629ff7ac57ef16  
 -->
 
 <!--
