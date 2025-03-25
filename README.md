@@ -1,6 +1,10 @@
-*hi there & hello world👋*  
-# **building "The 19B9" (the one nine b nine)**  
-| 19B9 | the 19B9 | The 19B9 | the_19B9 | The_19B9 | the-19B9 | The-19B9 | the19B9 | The19B9 |  
+*hi there & hello world👋*
+
+
+# **building "The 19B9"**  
+**(the one nine b nine)**  
+ 
+|  19B9  |  the 19B9  |  The 19B9  |  the_19B9  |  The_19B9  |  the-19B9  |  The-19B9  |  the19B9  |  The19B9  |  
   
   
 ## soon  
@@ -32,7 +36,16 @@
 ##### [bento](https://bento.me/the19b9)
 ##### [nft-opensea](https://opensea.io/the19b9) | [nft-opensea](https://opensea.io/0x4Abfa3856C490383FE916486664455eaeC046693)  
   
-### raw
+## products
+##### [the19B9](https://the19b9.github.io/the19b9/#the19B9)   |   [the24](https://the19b9.github.io/the19b9/#the25)   |   [theMay](https://the19b9.github.io/the19b9/#theMay)  
+    
+<!--
+### raw  
+mail.the19b9@gmail.com  
+the19b9@outlook.com  
+the19b9@proton.me  
+metamsk : 0x5e4c9dd4e5b1b59f280fec147b8ffdf5e8b9374b  
+https://etherscan.io/address/0x5e4c9dd4e5b1b59f280fec147b8ffdf5e8b9374b 
 https://the19b9.github.io/the19b9  
 https://discord.com/channels/@the19b9  
 https://discord.com/channels/1353474811858522170  
@@ -65,17 +78,6 @@ https://buymeacoffee.com/the19b9
 https://bento.me/the19b9  
 https://opensea.io/the19b9  
 https://opensea.io/0x4Abfa3856C490383FE916486664455eaeC046693  
-
-  ##### the24  
-  ##### theMay  
-  ##### the19B9  
-    
-<!--
-mail.the19b9@gmail.com  
-the19b9@outlook.com  
-the19b9@proton.me  
-metamsk : 0x5e4c9dd4e5b1b59f280fec147b8ffdf5e8b9374b  
-https://etherscan.io/address/0x5e4c9dd4e5b1b59f280fec147b8ffdf5e8b9374b  
 -->
 
 <!--
