@@ -4,7 +4,7 @@
 # **building "The 19B9"**  
 **(the one nine b nine)**    
   
-\| 19B9 \| the 19B9 \| The 19B9 \| the_19B9 \| The_19B9 \| the-19B9 \| The-19B9 \| the19B9 \| The19B9 \|  
+19B9 ; the 19B9 ; The 19B9 ; the_19B9 ; The_19B9 ; the-19B9 ; The-19B9 ; the19B9 ; The19B9 ;   
 
 
 
