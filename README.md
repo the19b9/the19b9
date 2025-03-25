@@ -65,7 +65,11 @@ https://buymeacoffee.com/the19b9
 https://bento.me/the19b9  
 https://opensea.io/the19b9  
 https://opensea.io/0x4Abfa3856C490383FE916486664455eaeC046693  
-  
+
+  ##### the24  
+  ##### theMay  
+  ##### the19B9  
+    
 <!--
 mail.the19b9@gmail.com  
 the19b9@outlook.com  
