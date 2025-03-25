@@ -4,7 +4,7 @@
 # **building "The 19B9"**  
 **(the one nine b nine)**  
  
-[  19B9  |  the 19B9  |  The 19B9  |  the_19B9  |  The_19B9  |  the-19B9  |  The-19B9  |  the19B9  |  The19B9  ]  
+\|&nbsp;&nbsp;&nbsp;19B9&nbsp;&nbsp;&nbsp;\|&nbsp;&nbsp;&nbsp;the 19B9&nbsp;&nbsp;&nbsp;\|&nbsp;&nbsp;&nbsp;The 19B9&nbsp;&nbsp;&nbsp;\|&nbsp;&nbsp;&nbsp;the_19B9&nbsp;&nbsp;&nbsp;\|&nbsp;&nbsp;&nbsp;The_19B9&nbsp;&nbsp;&nbsp;\|&nbsp;&nbsp;&nbsp;the-19B9&nbsp;&nbsp;&nbsp;\|&nbsp;&nbsp;&nbsp;The-19B9&nbsp;&nbsp;&nbsp;\|&nbsp;&nbsp;&nbsp;the19B9&nbsp;&nbsp;&nbsp;\|&nbsp;&nbsp;&nbsp;The19B9&nbsp;&nbsp;&nbsp;\|  
   
   
 ## soon  
@@ -38,7 +38,7 @@
 ##### [session](https://session.foundation) | [session](https://getsession.org/) :: 057d9bd4ebe4e2dbd1b9dd94ebeb7b601102ca14092e24866feb629ff7ac57ef16
   
 ## products
-##### [the19B9](https://the19b9.github.io/the19b9/#the19B9)   |   [the24](https://the19b9.github.io/the19b9/#the25)   |   [theMay](https://the19b9.github.io/the19b9/#theMay)  
+##### [the19B9](https://the19b9.github.io/the19b9/#the19B9)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[the24](https://the19b9.github.io/the19b9/#the25)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[theMay](https://the19b9.github.io/the19b9/#theMay)  
     
 <!--
 ### raw  
