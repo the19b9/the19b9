@@ -6,7 +6,7 @@
 ## soon  
 ##### [apple](https://apps.apple.com/us/app/the19b9) | [android](https://play.google.com/store/apps/details?id=com.the19b9)  
   
-## Social  
+## social  
 ##### [github](https://the19b9.github.io/the19b9)
 ##### [discord](https://discord.com/channels/@the19b9) | [discord](https://discord.com/channels/1353474811858522170)
 ##### [mastodon](https://mastodon.social/@the19b9)
