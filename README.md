@@ -4,11 +4,13 @@
 # **building "The 19B9"**  
 **(the one nine b nine)**    
   
-\|&nbsp;&nbsp;&nbsp;19B9&nbsp;&nbsp;&nbsp;\|&nbsp;&nbsp;&nbsp;the 19B9&nbsp;&nbsp;&nbsp;\|&nbsp;&nbsp;&nbsp;The 19B9&nbsp;&nbsp;&nbsp;\|&nbsp;&nbsp;&nbsp;the_19B9&nbsp;&nbsp;&nbsp;\|&nbsp;&nbsp;&nbsp;The_19B9&nbsp;&nbsp;&nbsp;\|&nbsp;&nbsp;&nbsp;the-19B9&nbsp;&nbsp;&nbsp;\|&nbsp;&nbsp;&nbsp;The-19B9&nbsp;&nbsp;&nbsp;\|&nbsp;&nbsp;&nbsp;the19B9&nbsp;&nbsp;&nbsp;\|&nbsp;&nbsp;&nbsp;The19B9&nbsp;&nbsp;&nbsp;\|  
+\| 19B9 \| the 19B9 \| The 19B9 \| the_19B9 \| The_19B9 \| the-19B9 \| The-19B9 \| the19B9 \| The19B9 \|  
 
-  
+
+#
 ## soon  
 ##### [apple](https://apps.apple.com/us/app/the19b9) | [android](https://play.google.com/store/apps/details?id=com.the19b9)  
+#
   
 ## social  
 ##### [github](https://the19b9.github.io/the19b9)
@@ -40,6 +42,10 @@
     
 ## products  
 ##### [the19B9](https://the19b9.github.io/the19b9/#the19B9)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[the24](https://the19b9.github.io/the19b9/#the25)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[theMay](https://the19b9.github.io/the19b9/#theMay)  
+  
+  
+#  
+##### the19b9.io \| the19b9.dev \| the19b9.app \| the19b9.space \| the19b9.world \| the19b9.abc \| the19b9.xyz \| the19b9.co \| the19b9.com \| the19b9.org
     
 <!--
 ### raw  
