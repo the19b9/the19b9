@@ -1,12 +1,12 @@
 *hi there & hello world👋*
-
-
+</br>
+</br>
 # **building "The 19B9"**  
 **(the one nine b nine)**  
- 
+</br>
 \|&nbsp;&nbsp;&nbsp;19B9&nbsp;&nbsp;&nbsp;\|&nbsp;&nbsp;&nbsp;the 19B9&nbsp;&nbsp;&nbsp;\|&nbsp;&nbsp;&nbsp;The 19B9&nbsp;&nbsp;&nbsp;\|&nbsp;&nbsp;&nbsp;the_19B9&nbsp;&nbsp;&nbsp;\|&nbsp;&nbsp;&nbsp;The_19B9&nbsp;&nbsp;&nbsp;\|&nbsp;&nbsp;&nbsp;the-19B9&nbsp;&nbsp;&nbsp;\|&nbsp;&nbsp;&nbsp;The-19B9&nbsp;&nbsp;&nbsp;\|&nbsp;&nbsp;&nbsp;the19B9&nbsp;&nbsp;&nbsp;\|&nbsp;&nbsp;&nbsp;The19B9&nbsp;&nbsp;&nbsp;\|  
-   
-  
+</br>
+</br>
 ## soon  
 ##### [apple](https://apps.apple.com/us/app/the19b9) | [android](https://play.google.com/store/apps/details?id=com.the19b9)  
   
@@ -37,7 +37,10 @@
 ##### [buymeacoffee](https://buymeacoffee.com/the19b9)
 ##### [session](https://session.foundation) | [session](https://getsession.org/) :: 057d9bd4ebe4e2dbd1b9dd94ebeb7b601102ca14092e24866feb629ff7ac57ef16
   
-## products
+</br>  
+</br>  
+  
+## products  
 ##### [the19B9](https://the19b9.github.io/the19b9/#the19B9)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[the24](https://the19b9.github.io/the19b9/#the25)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[theMay](https://the19b9.github.io/the19b9/#theMay)  
     
 <!--
