@@ -52,11 +52,13 @@
 ##### [stackoverflow](https://stackoverflow.com/users/30118043/the19b9)
 ##### [ycombinator](https://news.ycombinator.com/user?id=the19b9)
 ##### [quora](https://www.quora.com/profile/the19b9)
+##### [spotify](https://open.spotify.com/user/31v6gddemii6cscar73aid2ucqea)
 ##### [deviantart](https://www.deviantart.com/the19b9)
 ##### [artstation](https://www.artstation.com/the19b9) | [epicgames](https://www.epicgames.com) | [unrealengine](https://unrealengine.com)
 ##### [unity](https://cloud.unity.com/home/organizations/13469811413809) | [assetstore](https://assetstore.unity.com)
 ##### [nft-opensea](https://opensea.io/the19b9) | [nft-opensea](https://opensea.io/0x4Abfa3856C490383FE916486664455eaeC046693)
 ##### [buymeacoffee](https://buymeacoffee.com/the19b9)
+##### [wikipedia](https://en.wikipedia.org/wiki/The19b9)
 ##### [session](https://session.foundation) | [session](https://getsession.org) :: 057d9bd4ebe4e2dbd1b9dd94ebeb7b601102ca14092e24866feb629ff7ac57ef16
   
 &nbsp;&nbsp;  
@@ -69,6 +71,7 @@
 ### raw  
 mail.the19b9@gmail.com  
 the19b9@outlook.com  
+the19b9@yahoo.com  
 the19b9@proton.me  
 metamsk : 0x5e4c9dd4e5b1b59f280fec147b8ffdf5e8b9374b  
 https://etherscan.io/address/0x5e4c9dd4e5b1b59f280fec147b8ffdf5e8b9374b  
@@ -107,6 +110,8 @@ https://www.quora.com/profile/the19b9
 https://www.deviantart.com/the19b9  
 https://www.artstation.com/the19b9  
 https://cloud.unity.com/home/organizations/13469811413809  
+https://open.spotify.com/user/31v6gddemii6cscar73aid2ucqea  
+https://en.wikipedia.org/wiki/The19b9  
 -->
 
 <!--
