@@ -1,4 +1,5 @@
-  
+<!-- this page is to showcase the underdevelopment apps / social media / proposed website names / anything in this page are linked to the new proposed brand/product the 19b9 which i am eagerly trying to do something. whether it's useful or not, whether i am going to build the brand / product or not, this page means to me a lot and special to me. to make it as a public page, i have to make the repository public. if anyone able to access this file and repository, kindly avoid editing/modifying/deleting it. thanks for understanding.
+app links & website liks are just temporary, just to showcase, not the actual link. &copy ©-->
     
 # **1**  
 # **9**  
@@ -38,6 +39,7 @@
 ##### [x](https://x.com/the19b9)
 ##### [instagram](https://www.instagram.com/the19b9)
 ##### [threads](https://www.threads.net/@the19b9)
+##### [facebook](https://www.facebook.com/profile.php?id=61574652552598)
 ##### [reddit](https://www.reddit.com/r/the19b9/) | [reddit](https://www.reddit.com/user/the19b9)  
 ##### [bluesky](https://bsky.app/profile/the19b9.bsky.social)
 ##### [linkedin](https://www.linkedin.com/company/the19b9) | [linkedin](https://www.linkedin.com/in/the19b9)
@@ -52,7 +54,7 @@
 ##### [stackoverflow](https://stackoverflow.com/users/30118043/the19b9)
 ##### [ycombinator](https://news.ycombinator.com/user?id=the19b9)
 ##### [quora](https://www.quora.com/profile/the19b9)
-##### [spotify](https://open.spotify.com/user/31v6gddemii6cscar73aid2ucqea)
+##### [spotify](https://open.spotify.com/user/31v6gddemii6cscar73aid2ucqea) | [spotify](https://open.spotify.com/playlist/2JWYLhwEqL3E2QoX38VOnJ)
 ##### [deviantart](https://www.deviantart.com/the19b9)
 ##### [artstation](https://www.artstation.com/the19b9) | [epicgames](https://www.epicgames.com) | [unrealengine](https://unrealengine.com)
 ##### [unity](https://cloud.unity.com/home/organizations/13469811413809) | [assetstore](https://assetstore.unity.com)
@@ -107,10 +109,12 @@ https://stackoverflow.com/users/30118043/the19b9
 https://news.ycombinator.com/user?id=the19b9  
 https://www.sketch.com/workspace/19cccbe9-9037-43b1-8494-e6eca867c05e  
 https://www.quora.com/profile/the19b9  
+https://www.meta.com
+https://www.facebook.com/profile.php?id=61574652552598
 https://www.deviantart.com/the19b9  
 https://www.artstation.com/the19b9  
-https://cloud.unity.com/home/organizations/13469811413809  
-https://open.spotify.com/user/31v6gddemii6cscar73aid2ucqea  
+https://cloud.unity.com/home/organizations/13469811413809  https://assetstore.unity.com/  https://id.unity.com/  
+https://open.spotify.com/user/31v6gddemii6cscar73aid2ucqea  https://open.spotify.com/playlist/2JWYLhwEqL3E2QoX38VOnJ  
 https://en.wikipedia.org/wiki/The19b9  
 -->
 
