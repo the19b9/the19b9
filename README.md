@@ -68,7 +68,7 @@ app links & website liks are just temporary, just to showcase, not the actual li
   
   
    
-###### <span style="font-size: 1px;">.---- ----. -... ----.  &nbsp;  I IX B IX  I IX B IX  &nbsp;  49 57 66 57  &nbsp;  31 39 42 39  &nbsp;  00110001 00111001 01000010 00111001</span>  
+###### <span style="font-size: 8px;">.---- ----. -... ----.  &nbsp;  I IX B IX  I IX B IX  &nbsp;  49 57 66 57  &nbsp;  31 39 42 39  &nbsp;  00110001 00111001 01000010 00111001</span>  
 ###### the19b9.io &nbsp;\|&nbsp; the19b9.ai &nbsp;\|&nbsp; the19b9.dev &nbsp;\|&nbsp; the19b9.app &nbsp;\|&nbsp; the19b9.tech &nbsp;\|&nbsp; the19b9.design &nbsp;\|&nbsp; the19b9.data &nbsp;\|&nbsp; the19b9.quantum &nbsp;\|&nbsp; the19b9.nft &nbsp;\|&nbsp; the19b9.crypto &nbsp;\|&nbsp; the19b9.space &nbsp;\|&nbsp; the19b9.world &nbsp;\|&nbsp; the19b9.abc &nbsp;\|&nbsp; the19b9.xyz &nbsp;\|&nbsp; the19b9.cloud &nbsp;\|&nbsp; the19b9.co &nbsp;\|&nbsp; the19b9.org \| the19b9.cc &nbsp;\|&nbsp; the19b9.wiki &nbsp;\|&nbsp; the19b9.biz &nbsp;\|&nbsp; the19b9.info &nbsp;\|&nbsp; the19b9.net &nbsp;\|&nbsp; the19b9.in &nbsp;\|&nbsp; the19b9.pro &nbsp;\|&nbsp; the19b9.name &nbsp;\|&nbsp; the19b9.site &nbsp;\|&nbsp; the19b9.top &nbsp;\|&nbsp; the19b9.club &nbsp;\|&nbsp; the19b9.shop &nbsp;\|&nbsp; the19b9.work &nbsp;\|&nbsp; the19b9.global &nbsp;\|&nbsp; the19b9.tokyo &nbsp;\|&nbsp; the19b9.london &nbsp;\|&nbsp; the19b9.nyc &nbsp;\|&nbsp; the19b9.berlin &nbsp;\|&nbsp; the19b9.amsterdam &nbsp;\|&nbsp; the19b9.hamburg &nbsp;\|&nbsp; the19b9.paris &nbsp;\|&nbsp; the19b9.moscow &nbsp;\|&nbsp; the19b9.sydney &nbsp;\|&nbsp; the19b9.brussels &nbsp;\|&nbsp; the19b9.mumbai &nbsp;\|&nbsp; the19b9.com  
     
 <!--
