@@ -42,7 +42,8 @@ app links & website liks are just temporary, just to showcase, not the actual li
 ##### [instagram](https://www.instagram.com/the19b9)
 ##### [threads](https://www.threads.net/@the19b9)
 ##### [facebook](https://www.facebook.com/profile.php?id=61574652552598)
-##### [reddit](https://www.reddit.com/r/the19b9/) | [reddit](https://www.reddit.com/user/the19b9)  
+##### [reddit](https://www.reddit.com/r/the19b9) | [reddit](https://www.reddit.com/user/the19b9)  
+##### [bearblog](https://the19b9.bearblog.dev)  
 ##### [bluesky](https://bsky.app/profile/the19b9.bsky.social)
 ##### [linkedin](https://www.linkedin.com/company/the19b9) | [linkedin](https://www.linkedin.com/in/the19b9)
 ##### [youtube](https://www.youtube.com/@the19B9)
@@ -90,6 +91,7 @@ https://x.com/the19b9
 https://www.instagram.com/the19b9  
 https://www.threads.net/@the19b9  
 https://www.reddit.com/user/the19b9  https://www.reddit.com/r/the19b9  
+https://the19b9.bearblog.dev  
 https://bsky.app/profile/the19b9.bsky.social  
 https://www.linkedin.com/in/the19b9  https://www.linkedin.com/company/the19b9  
 https://www.youtube.com/@the19B9  
